@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @billcates
-- 👀 I’m interested in databases and cloud
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in data and currently working as a data engineer
+- 🌱 I would love to work in aws and python
 - 💞️ I’m looking to collaborate on data engineering works
 - 📫 reach me through instagram-@___billu
 
